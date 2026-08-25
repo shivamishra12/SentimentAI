@@ -1,0 +1,22 @@
+# Python virtual environments
+venv/
+env/
+.env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# VSCode or other IDEs
+.vscode/
+.idea/
